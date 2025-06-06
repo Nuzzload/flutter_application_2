@@ -16,8 +16,15 @@ Le projet dans son état actuel est donc une application permettant la création
 
 ### On observe 3 pages qui fonctionnent en relation les unes avec les autres : 
 1. L'écran d'accueil permet de naviguer entre les 2 autres et affiche le nombre de flashcard actuellement en existence. 
+![image](./screens/home_screen.png)
+
 2. L'écran de création de flashcard permet de créer des flashcard et de les ajouter à la pool général. Il est nécessaire de fournir un texte recto et un texte verso avant de pouvoir valider l'ajout.
+![image](./screens/create_flashcrad_screen.png)
+
+
 3. L'écran d'étude, où l'on fait s'afficher les flashcards aléatoirement. On ne peut y accéder uniquement à partir du moment où des flashcards existent. On peut passer à la suivante en appuyant sur le bouton en bas de l'écran, et retourner la carte en cliquant dessus.
+![image](./screens/study_screen.png)
+
 
 J'ai préféré passer outre la mémoire long-terme et l'algorithme d'affichage (normalement les flashcards s'affichent dans une logique de répétition en fonction des résultats de l'apprenant). L'important est que 3 pages existent, elles communiquent des données entre elles et sont visuellement cohérentes.
 
