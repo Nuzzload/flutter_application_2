@@ -1,7 +1,7 @@
 # Rendu Flutter DHIMENE ISMAEL ESGI2
 
 ## Le repo est là :
-
+https://github.com/Nuzzload/flutter_application_2
 
 ## Avertissement : Syntaxe Flutter, usage de LLM et le projet dans l'ensemble
 Je tiens à préfacer le reste de ce dossier par un petit état des lieux. Je n'aime pas Flutter et sa syntaxe. Imbriquer des éléments à l'infini n'est pas une expérience plaisante, et s'y retrouver après coup est encore pire. Je SAIS maintenant que je peux me débrouiller pour fournir quelque chose de correct et de fonctionnelle, mais naviguer mon code sans aide de mise en page et avoir l'impression de devenir fou à repasser sur le même bloc 18 fois en se demandant quelle parenthèse est en fait de trop ou pour laquelle il semble manquer une jumelle n'est pas quelque chose que je compte expériencer de nouveau dans un futur proche.
